@@ -7,8 +7,8 @@ Patrick Macharia
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [machine learning](#machine learning)
-- [Neural networks](#Neural networks)
+- [machine learning](# machine learning)
+- [Neural networks](# Neural networks)
 - [NLP](#NLP)
   
 
