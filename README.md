@@ -3,7 +3,7 @@ A collaborative guide by
 - Erick peter
 - Patrick Macharia
 - Miney Nduati
-
+- Francis Lealmusia
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,5 +27,6 @@ Each section is written by a different team member.
 <!-- [Erick Peter] will write this section-->
 
 ## Deep learning
-<!-- [Team member 4 Name] will write this section-->
+<!-- [Francis Lealmusia] will write this section-->
+r 4 Name] will write this section-->
 
