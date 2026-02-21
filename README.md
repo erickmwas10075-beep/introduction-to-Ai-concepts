@@ -1,6 +1,7 @@
-# Useful Tools for Students
-
+# introduction to AI concepts
 A collaborative guide by [list all team member names].
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
