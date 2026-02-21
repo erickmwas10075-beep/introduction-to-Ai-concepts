@@ -1,14 +1,14 @@
 # introduction to AI concepts
-A collaborative guide by [list all team member names].
-Erick peter
-Patrick Macharia
+A collaborative guide by 
+*Erick peter
+*Patrick Macharia
 
 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Machine learning](#Machine learning)
-- [Neural networks](#Neural networks)
+- [Machine-learning](#Machine-learning)
+- [Neural-networks](#Neural-networks)
 - [NLP](#NLP)
   
 
