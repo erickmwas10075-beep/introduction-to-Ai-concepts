@@ -10,6 +10,7 @@ A collaborative guide by
 - [Machine-learning](#Machine-learning)
 - [Neural-networks](#Neural-networks)
 - [NLP](#NLP)
+- [Deep-learning](#deep-learning)
   
 
 ## Introduction
