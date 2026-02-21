@@ -28,5 +28,4 @@ Each section is written by a different team member.
 
 ## Deep learning
 <!-- [Team member 4 Name] will write this section-->
-## NLP
-<!-- [Team Member 3 Name] will write this section -->
+
