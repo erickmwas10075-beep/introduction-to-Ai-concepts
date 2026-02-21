@@ -7,8 +7,8 @@ Patrick Macharia
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [machine iearning](#machine learning)
-- [Neural networks](#neural networks)
+- [machine learning](#machine learning)
+- [Neural networks](#Neural networks)
 - [NLP](#NLP)
   
 
@@ -16,7 +16,7 @@ Patrick Macharia
 This guide covers Artificial inteligence that simulate human intelligence
 Each section is written by a different team member.
 
-## Machine iearning
+## Machine learning
 <!-- [Team Member 1 Name] will write this section -->
 
 ## Neural networks
