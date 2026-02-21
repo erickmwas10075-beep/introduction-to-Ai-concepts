@@ -1,7 +1,7 @@
 # introduction to AI concepts
 A collaborative guide by 
-*Erick peter
-*Patrick Macharia
+-Erick peter
+-Patrick Macharia
 
 
 
