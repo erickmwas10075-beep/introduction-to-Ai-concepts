@@ -2,7 +2,7 @@
 A collaborative guide by 
 - Erick peter
 - Patrick Macharia
-
+- Miney Nduati
 
 
 ## Table of Contents
@@ -18,13 +18,13 @@ This guide covers Artificial inteligence that simulate human intelligence
 Each section is written by a different team member.
 
 ## Machine learning
-<!-- [Team Member 1 Name] will write this section -->
+<!-- [Patrick Macharia] will write this section -->
 
 ## Neural networks
-<!-- [Team Member 2 Name] will write this section -->
+<!-- [Miney Nduati] will write this section -->
 
 ## NLP
-<!-- [Team member 3 Name] will write this section-->
+<!-- [Erick Peter] will write this section-->
 
 ## Deep learning
 <!-- [Team member 4 Name] will write this section-->
