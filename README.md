@@ -8,6 +8,11 @@ A collaborative guide by
 ## Table of Contents
 - [Introduction](#introduction)
 - [Machine-learning](#Machine-learning)
+
+## Introduction
+This guide covers Artificial inteligence that simulate human intelligence
+Each section is written by a different team member.
+
 ## **Machine Learning (ML)** 
 -Is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance automatically without being explicitly programmed for every task.
 
@@ -50,12 +55,6 @@ Useful link (https://en.wikipedia.org/wiki/Machine_learning)
 
 - [Neural-networks](#Neural-networks)
 - [NLP](#NLP)
-  
-  
-
-## Introduction
-This guide covers Artificial inteligence that simulate human intelligence
-Each section is written by a different team member.
 
 ## Neural networks
 <!-- [Miney Nduati] will write this section -->
