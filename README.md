@@ -29,7 +29,7 @@ Each section is written by a different team member.
 Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that enables computers to understand, interpret, and generate human language.
 
 In simple words:
-👉 NLP helps computers talk and understand humans.
+- NLP helps computers talk and understand humans.
 
 It combines:
 
@@ -50,7 +50,7 @@ NLP acts as a bridge between human language and computer understanding.
 
 You use NLP every day without realizing it:
 
-Chatbots (like me 😉)
+Chatbots 
 
 Google Translate
 
@@ -109,5 +109,5 @@ Advanced chatbots
 Real-time translation
 
 AI content creation
-<!-- [Francis Lealmusia] will write this section-->
+
 
