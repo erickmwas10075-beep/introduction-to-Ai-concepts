@@ -8,6 +8,8 @@ A collaborative guide by
 ## Table of Contents
 - [Introduction](#introduction)
 - [Machine-learning](#Machine-learning)
+- [Neural-networks](#Neural-networks)
+- [NLP](#NLP)
 
 ## Introduction
 This guide covers Artificial inteligence that simulate human intelligence
@@ -52,9 +54,6 @@ Example: Training a game-playing AI
 -Fraud detection in banking (relevant to your chama/finance apps)
 
 Useful link (https://en.wikipedia.org/wiki/Machine_learning)
-
-- [Neural-networks](#Neural-networks)
-- [NLP](#NLP)
 
 ## Neural networks
 <!-- [Miney Nduati] will write this section -->
@@ -146,4 +145,5 @@ Real-time translation
 
 AI content creation
 
+Useful link (https://en.wikipedia.org)
 
