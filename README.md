@@ -3,14 +3,14 @@ A collaborative guide by
 - Erick peter
 - Patrick Macharia
 - Miney Nduati
-- Francis Lealmusia
+  
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Machine-learning](#Machine-learning)
 - [Neural-networks](#Neural-networks)
 - [NLP](#NLP)
-- [Deep-learning](#deep-learning)
+
   
 
 ## Introduction
@@ -24,8 +24,6 @@ Each section is written by a different team member.
 <!-- [Miney Nduati] will write this section -->
 
 ## NLP
-<!-- [Erick Peter] will write this section-->
-
-## Deep learning
+<!-- [Erick Peter] will write this section
 <!-- [Francis Lealmusia] will write this section-->
 
