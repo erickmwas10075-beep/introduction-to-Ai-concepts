@@ -56,7 +56,18 @@ Example: Training a game-playing AI
 Useful link (https://en.wikipedia.org/wiki/Machine_learning)
 
 ## Neural networks
-<!-- [Miney Nduati] will write this section -->
+What is neural networks
+
+Neural Network is a method in artificial intelligence(AI)that teaches computers to process data in a way thatis inspired by the  human brain.
+
+Types of Neural networks
+
+-Feedforward Neural Networks(FNNs)
+-Convolutional Neural Networks(CNNs)
+-Recurrent Neural Networks(RNNs)
+
+
+
 
 ## NLP
  What is NLP?
