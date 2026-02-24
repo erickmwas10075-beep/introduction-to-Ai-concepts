@@ -55,16 +55,42 @@ Example: Training a game-playing AI
 
 Useful link (https://en.wikipedia.org/wiki/Machine_learning)
 
+
 ## Neural networks
 What is neural networks
 
 Neural Network is a method in artificial intelligence(AI)that teaches computers to process data in a way thatis inspired by the  human brain.
+it is also called an artificial neural network and consists of connectected units or nodes called artificial neurons.
 
-Types of Neural networks
+## Types of Neural networks
 
 -Feedforward Neural Networks(FNNs)
 -Convolutional Neural Networks(CNNs)
 -Recurrent Neural Networks(RNNs)
+
+## Real-life examples/applications of Neural network
+
+-A self driving car which uses neural networksto manage the varibles it encounters
+-Detecting fraudulent transactions
+-speech recognition
+-Natural language processing
+
+### How does Neural Network work
+
+**step 1**
+
+The neuron receives inputs where each input has its own weight
+
+**Step 2**
+
+It calculates a sum of these inputs and adjust for their weights
+
+**step 3**
+
+The activation function looks at the sum and decides the output of the neuron
+
+Useful link https://en.wikipedia.org
+
 
 
 
