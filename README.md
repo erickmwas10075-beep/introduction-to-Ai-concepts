@@ -184,3 +184,114 @@ AI content creation
 
 Useful link (https://en.wikipedia.org)
 
+## career that require Ai knowledge
+1. AI / Machine Learning Engineer
+4
+
+What they do:
+Build AI systems like recommendation engines, chatbots, fraud detection systems.
+
+Skills needed:
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+TensorFlow / PyTorch
+
+Math & statistics
+
+1. High paying worldwide.
+
+2. Data Scientist
+4
+
+What they do:
+Analyze data and use AI to predict trends (sales, health risks, market behavior).
+
+Skills needed:
+
+Python / R
+
+Statistics
+
+Data visualization
+
+Machine learning basics
+
+Used in banks, hospitals, tech companies.
+
+3. AI Software Developer
+4
+
+What they do:
+Create AI-powered apps (chatbots, smart assistants, automation tools).
+
+Skills needed:
+
+Programming (Python, JavaScript)
+
+APIs
+
+AI tools (OpenAI, etc.)
+
+Cloud platforms
+
+Good for freelancers too 
+
+ 4. NLP Engineer (Natural Language Processing)
+4
+
+What they do:
+Work on chatbots, translation systems, voice assistants.
+
+Example: Technology behind tools like ChatGPT.
+
+Skills needed:
+
+Linguistics
+
+Machine learning
+
+Deep learning
+
+Transformers
+
+ 5. AI Content Creator / Prompt Engineer
+4
+
+What they do:
+Use AI tools to create:
+
+Art
+
+Videos
+
+Social media content
+
+Automation workflows
+
+Good for YouTube, TikTok, freelancing.
+
+ 6. AI in Healthcare Specialist
+4
+
+What they do:
+Use AI for:
+
+Disease detection
+
+Medical imaging
+
+Drug discovery
+
+Very advanced but powerful career path.
+
+ 7. AI Product Manager
+
+What they do:
+Manage AI products (apps, platforms, SaaS tools).
+
+You don't code heavily — you manage teams.
