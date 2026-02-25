@@ -23,7 +23,7 @@ Instead of telling a computer exactly what to do step-by-step, you give it data,
 - Example:
 If you show a computer many pictures of cats and dogs, it can learn how to tell the difference between them.
 
-## How It Works
+## Process Overview
 1. Input Data – You provide examples (e.g., images, numbers, text)
 2. Training – The computer finds patterns in the data
 3. Model Creation – It builds a system (model) based on those patterns
