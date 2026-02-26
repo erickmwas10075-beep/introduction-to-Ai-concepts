@@ -1,8 +1,8 @@
 # introduction to AI concepts
 A collaborative guide by 
-- Erick peter
-- Patrick Macharia
-- Miney Nduati
+- **Erick Peter** - *Introduction & NLP*
+- **Patrick Macharia** - *Machine learning*
+- **Miney Nduati** - *Neural Networks*
   
 
 ## Table of Contents
